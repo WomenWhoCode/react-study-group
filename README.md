@@ -18,28 +18,28 @@ We're very happy on seeing you with us! Let's learn all together ✨ This is the
 ### Session 1: Kick Off
 -Why React
 ### Session 2
--JSX
--ReactDOM
--Components (reusable components and how to organize)
+-JSX <br>
+-ReactDOM<br>
+-Components (reusable components and how to organize)<br>
 
 ### Session 3
-Mapping
-Objects as Props
-Props vs state
+Mapping<br>
+Objects as Props<br>
+Props vs state<br>
 
 ### Session 4
--useState
--Changing state
--state as props
--Local state
-- Unified state
+-useState<br>
+-Changing state<br>
+-state as props<br>
+-Local state<br>
+- Unified state<br>
 
 ### Bonus 
--React Forms
--Forms
--API calls
--useEffect
--async functions inside useEffect
+-React Forms<br>
+-Forms<br>
+-API calls<br>
+-useEffect<br>
+-async functions inside useEffect<br>
 
 ## Code with us!
 This is the design we will follow during the exercises! [Figma design](https://www.figma.com/file/C9xnkq4d5m9hcO45IsFbN4/MusicApp?type=design&mode=design&t=1wVd1amxOCjGMiF4-0)
