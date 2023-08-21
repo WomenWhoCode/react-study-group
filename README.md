@@ -32,7 +32,7 @@ Props vs state<br>
 -Changing state<br>
 -state as props<br>
 -Local state<br>
-- Unified state<br>
+-Unified state<br>
 
 ### Bonus 
 -React Forms<br>
