@@ -1,4 +1,6 @@
-# Logs
+#My music app node modules folder
+/my-music-app/node_modules
+
 logs
 *.log
 npm-debug.log*
